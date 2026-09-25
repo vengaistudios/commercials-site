@@ -111,7 +111,7 @@ function App() {
             <figcaption>Shashinth Madhurshaan Sri Logeswaran — Founder, Creative Director &amp; Chief Editor</figcaption>
           </figure>
           <div className="founder-copy reveal">
-            
+          <p className="founder-label">The Studio</p>  
             <h2>Founder, Creative Director &amp; Chief Editor</h2>
             <p>Commercials Vengai Studios is led by Shashinth Madhurshaan Sri Logeswaran — Founder, Creative Director, and Chief Editor. A self-taught film student, he's built his understanding of the craft from the ground up, studying how film theory shapes the way an audience psychologically responds to what they're watching. That understanding drives every project: shots aren't chosen for how they look, but for how they're sequenced to carry emotion and story. The result isn't stylized footage for its own sake. It's imagery engineered to make a viewer feel something before they've consciously registered why.</p>
           </div>
