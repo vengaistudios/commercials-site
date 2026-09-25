@@ -63,7 +63,7 @@ function App() {
 
   return (
     <main>
-      <nav className="site-nav">
+      <nav className="site-nav sticky top-0 z-50">
         <a className="nav-brand" href="#top" aria-label="Vengai Studios home">
           <img src="/assets/images/Vengai_Studios_Logo_Icon.png" alt="" />
           <span>VENGAI</span>
