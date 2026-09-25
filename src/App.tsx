@@ -96,14 +96,7 @@ function App() {
         </div>
       </section>
 
-      <section id="approach" className="approach-section section-shell">
-        <div className="approach-intro reveal"><p className="section-kicker">The approach <span>///</span></p><div className="big-statement">The speed of AI.<br /><i>The eye of a<br />film director.</i></div></div>
-        <div className="approach-body reveal">
-          <div className="approach-line"><span>01</span><p>We use generative tools to move at the speed of instinct — creating more possibilities before choosing the one that feels inevitable.</p></div>
-          <div className="approach-line"><span>02</span><p>Every frame is shaped with cinematic direction, editorial taste, and an obsession with the details that make a brand memorable.</p></div>
-        </div>
-      </section>
-
+     
       <section className="founder-section section-shell">
         <div className="founder-layout">
           <figure className="founder-portrait reveal">
