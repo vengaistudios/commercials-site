@@ -82,8 +82,8 @@ function App() {
         <div className="hero-content">
           <div className="hero-logo"><img src="/assets/images/Vengai_Studios_Full_White_BG_Logo_Vertical.png" alt="Vengai Studios — Some brands ask for attention. We hunt it." /></div>
         </div>
-        <a className="scroll-cue" href="#work"><span>Scroll to explore</span><ArrowDownRight size={16} /></a>
-        <div className="hero-index">01 <span>/</span> 04</div>
+        
+        
       </section>
 
       <section id="work" className="work-section section-shell">
